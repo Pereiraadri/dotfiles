@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pereiraadrien3@gmal.com
+	name = adrienpereira
